@@ -1,0 +1,22 @@
+{
+  "upstream": "nlcst-to-string",
+  "fork": "@stackline/nlcst-to-string",
+  "repository": "alexandroit/stackline-nlcst-to-string",
+  "upstreamRepository": "syntax-tree/nlcst-to-string",
+  "upstreamVersion": "3.1.1",
+  "sourceCommit": "6f915c28d57119847086e1e479ae789dcef9f962",
+  "upstreamIntegrity": "sha512-63mVyqaqt0cmn2VcI2aH6kxe1rLAmSROqHMA0i4qqg1tidkfExgpb0FGMikMCn86mw5dFtBtEANfmSSK7TjNHw==",
+  "status": "source-ready",
+  "files": {
+    "license": "9966260ba3ea9d6a5f839297dca80ddc99735a34b4ae82811cac7b956d2e3afd",
+    "index.js": "ec90f9f1795331d91a5cb10eb67884f6368c47f0c5b1c98e8a37a4798ab46660",
+    "lib/index.js": "f744870ee4c4437dac58664fb0160a8693bd09b14c032e50f0ae21e33f9eba67",
+    "package.json": "20053af0fad28ec9ce1175ad5ac7bdd23f76721429aabf4f175c0386e7e40ec5",
+    "readme.md": "38703567d944abcd2241e50986c32db80f672a60372ffca371eb6018330e1461",
+    "index.d.ts": "ec90f9f1795331d91a5cb10eb67884f6368c47f0c5b1c98e8a37a4798ab46660",
+    "lib/index.d.ts": "4f4b72f0cb8776cb43dd1902cd2f5091405db4913e3feb25dad5b02b208bf26b"
+  },
+  "allowedRuntimeChanges": [],
+  "testCommand": "node --conditions development test.js",
+  "strategy": "Published upstream files, including generated declarations, are preserved and checked against SHA-256. Functional tests run against source and the extracted final package. Changes to published runtime files require an explicit reviewed allowlist."
+}

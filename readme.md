@@ -1,3 +1,19 @@
+# @stackline/nlcst-to-string
+
+Independent maintenance fork of `nlcst-to-string@3.1.1`, preserving its API and published type declarations.
+
+```sh
+npm install @stackline/nlcst-to-string
+# Keep existing imports:
+npm install nlcst-to-string@npm:@stackline/nlcst-to-string@1.0.0
+```
+
+[Stackline](https://alexandro.net/) · [Issues](https://github.com/alexandroit/stackline-nlcst-to-string/issues) · [Community](https://www.reddit.com/r/Stackline/)
+
+See [UPSTREAM.md](UPSTREAM.md) for source identity and issue review, and [CHANGELOG.md](CHANGELOG.md) for maintenance changes. Functional tests also run against the final npm tarball; releases are published from GitHub Actions with provenance.
+
+## Upstream documentation
+
 # nlcst-to-string
 
 [![Build][build-badge]][build]
