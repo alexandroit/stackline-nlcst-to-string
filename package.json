@@ -26,8 +26,12 @@
     "test:package": "node scripts/test-package.mjs",
     "test:types": "tsc --ignoreConfig --noEmit --module NodeNext --moduleResolution NodeNext --target ES2022 --strict test/stackline-types.mts"
   },
-  "homepage": "https://github.com/alexandroit/stackline-nlcst-to-string#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/nlcst-to-string/",
   "keywords": [
+    "stackline",
+    "npm-package",
+    "nlcst-to-string",
+    "typescript",
     "unist",
     "nlcst",
     "nlcst-util",
@@ -36,7 +40,6 @@
     "string",
     "serialize",
     "stringify",
-    "stackline",
     "maintenance-fork"
   ],
   "prettier": {
@@ -83,7 +86,7 @@
     "typescript": "7.0.2",
     "@types/node": "24.12.2"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
