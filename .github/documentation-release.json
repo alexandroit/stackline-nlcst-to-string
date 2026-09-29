@@ -1,0 +1,31 @@
+{
+  "repository": "alexandroit/stackline-nlcst-to-string",
+  "packages": [
+    {
+      "name": "@stackline/nlcst-to-string",
+      "path": "readme.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "nlcst-to-string",
+        "typescript",
+        "unist",
+        "nlcst",
+        "nlcst-util",
+        "util",
+        "utility",
+        "string",
+        "serialize",
+        "stringify",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/nlcst-to-string/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/nlcst-to-string/-/nlcst-to-string-1.0.0.tgz",
+      "baselineIntegrity": "sha512-752bxLJCMdq7/gWQFiLlZh19RqSWdUCLHtlGtiRN9mp9FpCDS3tBQIH6t3Vajc7kQIw/VcW0lJQgwosvYOrs6g==",
+      "expectedSha512": "ad513aae02a8144c852236f43e2eca976366e5ee1fdf54d24cff7bce5d578e0d417219d9b0c3f328d8ee27eb253672828bf147b4628d71e87951ac2a5d97704b",
+      "tag": "docs-stackline-nlcst-to-string-v1.0.1"
+    }
+  ]
+}
